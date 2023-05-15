@@ -1,1 +1,1 @@
-# collage-website
+College Website
