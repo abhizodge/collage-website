@@ -1,3 +1,3 @@
 College Website
 
-link : https://itzpartht.github.io/College-Website/
+link : https://abhizodge.github.io/collage-website/
